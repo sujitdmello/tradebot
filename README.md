@@ -59,6 +59,9 @@ You > cancel order ORD024
 You > order status
 You > show my transaction history
 You > change my name to Alex
+You > how can I invest 25000?
+You > What should I buy for that money?
+You > yes proceed with the trades
 ```
 
 ## Data Files
