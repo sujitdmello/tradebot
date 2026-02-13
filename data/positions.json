@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "type": "stock",
+    "quantity": 73.0,
+    "avg_cost": 217.3096,
+    "current_price": 258.2
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corp.",
+    "type": "stock",
+    "quantity": 42.0,
+    "avg_cost": 407.6686,
+    "current_price": 401.84
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "type": "stock",
+    "quantity": 20,
+    "avg_cost": 175.0,
+    "current_price": 182.45
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "type": "stock",
+    "quantity": 25,
+    "avg_cost": 195.0,
+    "current_price": 210.8
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corp.",
+    "type": "stock",
+    "quantity": 15,
+    "avg_cost": 780.0,
+    "current_price": 845.6
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "type": "stock",
+    "quantity": 20,
+    "avg_cost": 520.0,
+    "current_price": 558.9
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "type": "stock",
+    "quantity": 35,
+    "avg_cost": 198.0,
+    "current_price": 212.5
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "type": "stock",
+    "quantity": 34.0,
+    "avg_cost": 298.9577,
+    "current_price": 314.6601
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "type": "stock",
+    "quantity": 40.0,
+    "avg_cost": 188.2063,
+    "current_price": 243.55
+  },
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "type": "crypto",
+    "quantity": 0.8,
+    "avg_cost": 43679.0019,
+    "current_price": 68864.0312
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "type": "crypto",
+    "quantity": 5.0,
+    "avg_cost": 2800.0,
+    "current_price": 3150.0
+  },
+  {
+    "symbol": "SOL",
+    "name": "Solana",
+    "type": "crypto",
+    "quantity": 100,
+    "avg_cost": 98.0,
+    "current_price": 115.4
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "type": "crypto",
+    "quantity": 5000,
+    "avg_cost": 0.55,
+    "current_price": 0.62
+  },
+  {
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "type": "crypto",
+    "quantity": 10000,
+    "avg_cost": 0.085,
+    "current_price": 0.095
+  },
+  {
+    "symbol": "SPY",
+    "name": "SPY",
+    "type": "stock",
+    "quantity": 10.0,
+    "avg_cost": 683.15,
+    "current_price": 683.15
+  }
+]
