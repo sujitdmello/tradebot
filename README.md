@@ -1,6 +1,6 @@
 # TradeBot
 
-A chat-style stock and crypto trading assistant powered by Azure OpenAI (gpt-5).
+A chat-style stock and crypto trading assistant powered by Azure OpenAI.
 
 ## Features
 
